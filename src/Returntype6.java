@@ -1,0 +1,2 @@
+public class Returntype6 {
+}
